@@ -263,7 +263,8 @@ paramètre `-p`pour créer une arborescence
 
 
 
-### Navigation less :
+### less
+Navigation
 
 Une fois que le fichier est ouvert avec "less," naviguer dans le fichier de plusieurs manières :
 
@@ -448,7 +449,6 @@ SIGCONT    reprise d'activité
 ``file nom_du_fichier.extension``  affiche le type du fichier
 
 
-## Cat et Less
 
 ## `awk`
 
